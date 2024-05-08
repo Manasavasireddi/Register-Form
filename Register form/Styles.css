@@ -1,0 +1,94 @@
+html {
+  height: 35px;
+  width: 90%;
+text-align:center;
+}
+
+body {
+  background: url("https://images.unsplash.com/photo-1485802007047-7774de7208e5?dpr=1&auto=compress,format&fit=crop&w=1800&h") no-repeat center center fixed;
+  background-size: cover;
+position:relative;
+  text-align:center;
+transform:translate(8.5%);
+}
+h1{
+color:white;
+  text-align:center;
+transform:translate(-7.5%);
+  
+
+}
+header {
+  text-align: center;
+  background: WHITE;
+  font-size: 1.4rem;
+  color: WHITE;
+} #table{
+
+    height: 950px;
+    width: 700px;
+    text-align: center;
+    color: white;
+position:relative;
+  text-align:center;
+transform:translate(35.5%);
+    }
+th{
+  text-align: center;
+  position:relative;
+  text-align:center;
+
+}
+td{
+padding: 2px;
+  justify-content: center;
+text-align:center;
+    
+}
+
+tr{position:relative;
+  text-align:center;
+transform:translate(3.5%);
+border-collapse: separate; }
+input[type="submit"] {
+  background: rgba(235, 30, 54, 1);
+  
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  color: white;
+  padding: 0.7rem;
+  cursor: pointer;
+position:relative;
+  text-align:center;
+transform:translate(-3.5%);
+}
+input {
+text-align:center;
+  background: transparent;
+ position:relative;
+  text-align:center;
+transform:translate(3.5%);
+  border-left: 4px solid;
+  border-color: #FF0000;
+  padding: 10px;
+  color: white;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="checkbox"]:focus{
+  position:relative;
+  text-align:center;
+transform:translate(3.5%);
+  background: rgba(235, 30, 54, 0.3);
+  border-radius: 1.2rem;
+  border-color: transparent;
+  }
+
+::placeholder {
+text-align:center;
+  color: #d3d3d3;
+}
+
